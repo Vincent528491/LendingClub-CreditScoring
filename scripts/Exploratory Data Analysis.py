@@ -1,5 +1,3 @@
-# V1.3：彻底改成英文
-
 import os
 import pandas as pd
 import numpy as np
