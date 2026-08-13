@@ -7,9 +7,9 @@
 *   **核心任务**: 构建一个二分类模型，预测借款人是否会违约（Default）。
 *   **业务价值**: 通过量化风险，为信贷审批、风险定价和额度管理提供数据驱动的决策支持。
 
-## 数据概览
+## 数据概览与获取
 
-*   **数据源**: Lending Club Loan Data (2007-2015)
+*   **数据源**: [Lending Club Loan Data (2007-2015)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
 *   **样本量**: 经过严格的表现期筛选和数据清洗后，最终用于建模的样本为 **237,695** 条。
 *   **标签定义**:
     *   **坏客户 (Bad, label=1)**: 贷款状态为 `Charged Off`, `Default` 或 `Late (31-120 days)`。
